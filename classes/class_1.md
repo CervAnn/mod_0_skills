@@ -12,7 +12,7 @@
 
 <h2>Methods</h2>
 <ul>
-<li>Order_Item</li>li>
+<li>Order_Item</li>
 <li>Hours_Open</li>
 <li>Call_PhoneNumber</li>
 </ul>
