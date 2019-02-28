@@ -9,6 +9,6 @@
 
 <h2>Methods</h2>
 <ul>
-<li>Get_GeneralCost</li>li>
+<li>Get_GeneralCost</li>
 <li>Closest_Option</li>
 </ul>
