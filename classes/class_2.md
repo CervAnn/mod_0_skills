@@ -9,7 +9,7 @@
 
 <h2>Methods</h2>
 <ul>
-<li>Restaurant_Proximity</li>li>
+<li>Restaurant_Proximity</li>
 <li>Use_Promo</li>
 <li>Call_PhoneNumber</li>
 </ul>
